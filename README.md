@@ -10,9 +10,11 @@
 📫 Reach me via my DMs on twitter.com/michaelcyger
 
 # Learning Projects for 2023
-- [ ] Garmin heat map (participation map) like GitHub contribution map [ex](https://twitter.com/tdinh_me/status/1609428874756247558) (steps, miles, minutes, avg hr)
-- [ ] Twitter heat map [participation map](https://github.com/ptmt/twitter-contribution-chart)
-- [ ] Twitterism random tweet display on website
+- [ ] Garmin Heat Map (participation map) like GitHub contribution map (steps, miles, minutes, avg hr)
+- [ ] Twitter Heat Map [participation map](https://github.com/ptmt/twitter-contribution-chart)
+- [ ] Twitterisms (random tweet display on website)
 
 # Notes
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
+- [GitHub Contributions Chart Generator](https://github-contributions.vercel.app/)
+- [What I Aspire To](https://twitter.com/tdinh_me/status/1609428874756247558)
