@@ -6,8 +6,8 @@
 - 📫 Reach me via my DMs on twitter.com/michaelcyger
 
 # Learning Projects for 2023
-- [ ] Garmin heat map (participation map) like GitHub contribution map [ex](https://twitter.com/tdinh_me/status/1609428874756247558){:target="_blank"} (steps, miles, minutes, avg hr)
+- [ ] Garmin heat map (participation map) like GitHub contribution map [ex](https://twitter.com/tdinh_me/status/1609428874756247558) (steps, miles, minutes, avg hr)
 - [ ] Twitterism random tweet display on website
 
-#Notes
-[Markdown](https://www.markdownguide.org/cheat-sheet/){:target="_blank"}
+# Notes
+[Markdown](https://www.markdownguide.org/cheat-sheet/)
