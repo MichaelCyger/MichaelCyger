@@ -15,4 +15,4 @@
 - [ ] Twitterism random tweet display on website
 
 # Notes
-[Markdown](https://www.markdownguide.org/cheat-sheet/)
+- [Markdown](https://www.markdownguide.org/cheat-sheet/)
