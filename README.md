@@ -7,6 +7,7 @@
 
 # Learning Projects for 2023
 - [ ] Garmin heat map (participation map) like GitHub contribution map [ex](https://twitter.com/tdinh_me/status/1609428874756247558) (steps, miles, minutes, avg hr)
+- [ ] Twitter heat map [participation map](https://github.com/ptmt/twitter-contribution-chart)
 - [ ] Twitterism random tweet display on website
 
 # Notes
