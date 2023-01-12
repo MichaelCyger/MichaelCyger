@@ -7,7 +7,7 @@
 
 💞️ I’m looking to collaborate on anything I'm writing. I could use all the help I can get.
 
-📫 Reach me via my DMs on twitter.com/michaelcyger
+📫 Reach me via my DMs on [twitter.com/michaelcyger](twitter.com/michaelcyger)
 
 # Learning Projects for 2023
 - [ ] Garmin Heat Map (participation map) like GitHub contribution map (steps, miles, minutes, avg hr)
