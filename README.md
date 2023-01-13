@@ -10,6 +10,7 @@
 📫 Reach me via my DMs on [twitter.com/michaelcyger](twitter.com/michaelcyger)
 
 # Learning Projects for 2023
+- [ ] GetRevue.co newsletter builder replacement
 - [ ] Garmin Heat Map (participation map) like GitHub contribution map (steps, miles, minutes, avg hr)
 - [ ] Twitter Heat Map [participation map](https://github.com/ptmt/twitter-contribution-chart)
 - [ ] Twitterisms (random tweet display on website)
