@@ -15,6 +15,7 @@
 - [ ] Garmin Heat Map (participation map) like GitHub contribution map (steps, miles, minutes, avg hr)
 - [ ] Twitter Heat Map [participation map](https://github.com/ptmt/twitter-contribution-chart)
 - [ ] Twitterisms (random tweet display on website)
+- [ ] Track exact pages visited, in order, before filling out contact form
 
 # Notes
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
