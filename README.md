@@ -12,8 +12,8 @@
 # Learning Projects for 2023
 - [ ] GetRevue.co newsletter builder replacement
 - - [ ] Fix missing twitter text after editing newsletter
-- [ ] Garmin Heat Map (participation map) like GitHub contribution map (steps, miles, minutes, avg hr)
-- [ ] Twitter Heat Map [participation map](https://github.com/ptmt/twitter-contribution-chart)
+- [ ] Garmin heat map (participation map) like GitHub contribution map (steps, miles, minutes, avg hr)
+- [ ] Twitter heat map [participation map](https://github.com/ptmt/twitter-contribution-chart)
 - [ ] Twitterisms (random tweet display on website)
 - [ ] Track exact pages visited, in order, before filling out contact form
 
